@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Image Manipulation using Python without external libraries](https://github.com/parasraorane/Image-Manipulation-using-Python-without-external-libraries) and my final year project- Automated Engine Design using Machine Learning
 - 🌱 I’m currently trying to learn and get familiar with different Deep Learning models
-- 👯 I’m looking to collaborate on Machine Learning and Data Science projects
+- 👯 I’m looking to collaborate for Machine Learning and Data Science projects
 
 ---
 
