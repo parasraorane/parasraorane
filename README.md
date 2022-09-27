@@ -2,7 +2,7 @@
 
 ![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/parasraorane?label=%20u%2Fparasraorane&style=social) ![Twitter URL](https://img.shields.io/twitter/url?label=Checkout%20my%20Twitter%21&style=social&url=https%3A%2F%2Ftwitter.com%2Fparasraorane) ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCRjZG8VFfTKxdciGYPKPaOQ?label=Youtube%20Channel&style=social)
 
-- 🔭 I’m currently working on [Image-Manipulation-using-Python-without external libraries](https://github.com/parasraorane/Image-Manipulation-using-Python-without-external-libraries) and my final year project- Automated Engine Design using Machine Learning
+- 🔭 I’m currently working on [Image Manipulation using Python without external libraries](https://github.com/parasraorane/Image-Manipulation-using-Python-without-external-libraries) and my final year project- Automated Engine Design using Machine Learning
 - 🌱 I’m currently trying to learn and get familiar with different Deep Learning models
 - 👯 I’m looking to collaborate on Machine Learning and Data Science projects
 
