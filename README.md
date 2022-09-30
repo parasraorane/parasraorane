@@ -14,6 +14,17 @@
 - [A simple Python🐍 script that makes your Wallpaper smart](https://medium.com/@parasraorane/a-simple-python-script-that-makes-your-wallpaper-smart-windows-10-11-ff7157398b70
 )
 
+--- 
+
+🌐 Connect With Me :
+<p align="left">
+<a href="mailto:parasganeshraorane@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1280px-Gmail_icon_%282020%29.svg.png" height="50" width="50" /></a>
+<a href="https://linkedin.com/in/parasraorane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="50" width="50" /></a>
+<a href="https://www.codechef.com/users/parasg" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/11960354?v=4" height="50" width="50" /></a>
+ <a href="https://www.hackerrank.com/parasg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="50" width="50" /></a>
+ <a href="https://www.leetcode.com/parasg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="50" width="50" /></a>
+ </p>
+ 
 ---
 
  🧰 Toolbox
@@ -27,13 +38,3 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parasraorane&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
---- 
-
-🌐 Connect With Me :
-<p align="left">
-<a href="mailto:parasganeshraorane@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1280px-Gmail_icon_%282020%29.svg.png" height="50" width="50" /></a>
-<a href="https://linkedin.com/in/parasraorane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="50" width="50" /></a>
-<a href="https://www.codechef.com/users/parasg" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/11960354?v=4" height="50" width="50" /></a>
- <a href="https://www.hackerrank.com/parasg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="50" width="50" /></a>
- <a href="https://www.leetcode.com/parasg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="50" width="50" /></a>
- </p>
