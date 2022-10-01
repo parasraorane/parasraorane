@@ -43,4 +43,4 @@
 
 🔨 My Projects:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=parasraorane&repo=TGS-Salt-Identification)](https://github.com/parasraorane/TGS-Salt-Identification)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=parasraorane&repo=TGS-Salt-Identification)](https://github.com/parasraorane/TGS-Salt-Identification)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=parasraorane&repo=TGS-Salt-Identification)](https://github.com/parasraorane/TGS-Salt-Identification)
