@@ -14,7 +14,7 @@
 
 ---
 
-🔨 My Projects:
+🔨 Projects:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=parasraorane&repo=TGS-Salt-Identification&theme=radical)](https://github.com/parasraorane/TGS-Salt-Identification)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=parasraorane&repo=Pump-it-up&theme=radical)](https://github.com/parasraorane/Pump-it-up)
