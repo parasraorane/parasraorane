@@ -39,3 +39,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=parasraorane&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+---
+
+🔨 My Projects:
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=parasraorane&repo=TGS-Salt-Identification)](https://github.com/parasraorane/TGS-Salt-Identification)
