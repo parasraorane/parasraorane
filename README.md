@@ -43,5 +43,7 @@
 
 🔨 My Projects:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=parasraorane&repo=TGS-Salt-Identification)](https://github.com/parasraorane/TGS-Salt-Identification) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=parasraorane&repo=Pump-it-up)](https://github.com/parasraorane/Pump-it-up)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=parasraorane&repo=Python-Smart-Wallpaper-for-Windows)](https://github.com/parasraorane/Python-Smart-Wallpaper-for-Windows) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=parasraorane&repo=Image-Manipulation-using-Python-without-external-libraries)](https://github.com/parasraorane/Image-Manipulation-using-Python-without-external-libraries) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=parasraorane&repo=TGS-Salt-Identification&theme=radical)](https://github.com/parasraorane/TGS-Salt-Identification)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=parasraorane&repo=Pump-it-up&theme=radical)](https://github.com/parasraorane/Pump-it-up)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=parasraorane&repo=Python-Smart-Wallpaper-for-Windows&theme=radical)](https://github.com/parasraorane/Python-Smart-Wallpaper-for-Windows)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=parasraorane&repo=Image-Manipulation-using-Python-without-external-libraries&theme=radical)](https://github.com/parasraorane/Image-Manipulation-using-Python-without-external-libraries) 
