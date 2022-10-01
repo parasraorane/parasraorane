@@ -14,15 +14,6 @@
 
 ---
 
-🔨 Projects:
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=parasraorane&repo=TGS-Salt-Identification&theme=radical)](https://github.com/parasraorane/TGS-Salt-Identification)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=parasraorane&repo=Pump-it-up&theme=radical)](https://github.com/parasraorane/Pump-it-up)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=parasraorane&repo=Python-Smart-Wallpaper-for-Windows&theme=radical)](https://github.com/parasraorane/Python-Smart-Wallpaper-for-Windows)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=parasraorane&repo=Image-Manipulation-using-Python-without-external-libraries&theme=radical)](https://github.com/parasraorane/Image-Manipulation-using-Python-without-external-libraries) 
-
----
-
  📘 Blog Articles about my projects
 - [TGS Salt prediction near oil rigs (using U-Net from Scratch)](https://medium.com/@parasraorane/tgs-salt-prediction-near-oil-rigs-using-u-net-from-scratch-4d43158f3636)
 - [Pump it Up: Data Mining the Water Table](https://medium.com/@parasraorane/pump-it-up-data-mining-the-water-table-af370c3f8e59)
@@ -31,6 +22,14 @@
 
 --- 
 
+ 🔨 Projects:
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=parasraorane&repo=TGS-Salt-Identification&theme=radical)](https://github.com/parasraorane/TGS-Salt-Identification)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=parasraorane&repo=Pump-it-up&theme=radical)](https://github.com/parasraorane/Pump-it-up)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=parasraorane&repo=Python-Smart-Wallpaper-for-Windows&theme=radical)](https://github.com/parasraorane/Python-Smart-Wallpaper-for-Windows)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=parasraorane&repo=Image-Manipulation-using-Python-without-external-libraries&theme=radical)](https://github.com/parasraorane/Image-Manipulation-using-Python-without-external-libraries) 
+
+---
 ## 📈 My GitHub Stats
 
 ![Paras's GitHub stats](https://github-readme-stats.vercel.app/api?username=parasraorane&show_icons=true&theme=radical)
