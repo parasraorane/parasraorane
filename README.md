@@ -19,6 +19,7 @@
 - [Pump it Up: Data Mining the Water Table](https://medium.com/@parasraorane/pump-it-up-data-mining-the-water-table-af370c3f8e59)
 - [A simple Python🐍 script that makes your Wallpaper smart](https://medium.com/@parasraorane/a-simple-python-script-that-makes-your-wallpaper-smart-windows-10-11-ff7157398b70
 )
+- [Image Manipulation in Python🐍 without external libraries](https://medium.com/@parasraorane/image-manipulation-in-python-without-external-libraries-8a7996b1155a)
 
 --- 
 
